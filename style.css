@@ -5,7 +5,7 @@
 .cabecalho{
     background-color: var(--cor-fundo);
     color: var(--cor-fontes);
-    display flex: ;
+    display: flex;
     justify-content: space-around;
-    
+
 }
