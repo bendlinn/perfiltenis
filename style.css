@@ -6,7 +6,7 @@
     background-color: var(--cor-fundo);
     color: var(--cor-fontes);
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
     align-items: center;
     padding: 24px 0;
 }
